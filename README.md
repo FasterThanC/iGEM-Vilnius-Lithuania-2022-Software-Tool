@@ -41,3 +41,6 @@ The output of the program can be found in outputMSA.txt, outputMSA.csv and outpu
 
 Get usage guide: `python GenFusMSA.py help`
 
+
+We would like to express gratitude to [**Benas Volkovas**](https://github.com/BenasVolkovas) who is a young full stack and Web 3.0 developer from Vilnius, Lithuania for helping and consulting us on the best Python programming practices.
+
