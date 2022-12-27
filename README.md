@@ -1,6 +1,6 @@
-# iGEM-Vilnius-Lithuania-2022-Software-Tool
+# iGEM Vilnius-Lithuania 2022 Software Tool
 
-# Team Vilnius-Lithuania 2022 Software Tool
+
 
 [**Wiki page**](https://2022.igem.wiki/vilnius-lithuania/) of NanoFind team. 
 
