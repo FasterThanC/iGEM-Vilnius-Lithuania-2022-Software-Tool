@@ -6,7 +6,7 @@
 
 
 ## Description - GenFusMSA
-**Disclaimer:** We want to be very clear that we did not create this software, we improved on it. The credit for designing this software tool goes to [**Vilnius-Lithuania-iGEM 2021**](https://2021.igem.org/Team:Vilnius-Lithuania), mainly to [**Ieva Pudžiuvelytė**](https://www.linkedin.com/in/ieva-pud%C5%BEiuvelyt%C4%97/). What we did was rewrite the programming code of this software to another language as well as add additional functionality. 
+**Disclaimer:** We want to be very clear that we did not create this software, we improved on it. The credit for designing this software tool goes to [**Vilnius-Lithuania-iGEM 2021**](https://2021.igem.org/Team:Vilnius-Lithuania), mainly to [**Ieva Pudžiuvelytė**](https://www.linkedin.com/in/ieva-pud%C5%BEiuvelyt%C4%97/). What we did was rewrite the programming code of this software to another language (Python) as well as add additional functionality. 
 
 GenFusMSA is a script that generates multiple sequence alignment (MSA) file that can be used for fusion protein joined via linkers of choice modeling. This program supports [**small tool for bioinformatics manifesto**](https://github.com/pjotrp/bioinformatics).
 
